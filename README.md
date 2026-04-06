@@ -19,7 +19,7 @@ Portugal's 2024 election season featured 28 debates across three national TV sta
 |---|---|
 | Tomás Marques | [@TomasMarques175](https://github.com/TomasMarques175) |
 | Tiago Mira | [@tiagomira29](https://github.com/tiagomira29) |
-| Miguel | [@Miguelyin](https://github.com/Miguelyin) |
+| Miguel Yin | [@Miguelyin](https://github.com/Miguelyin) |
 
 ---
 
