@@ -176,15 +176,3 @@ python -m spacy download pt_core_news_lg
 | `livre` | Livre |
 | `pan` | PAN |
 | `ps` | Partido Socialista |
-
----
-
-## Evaluation
-
-| Component | Weight |
-|---|---|
-| Midterm Review (Week 4) | 15% |
-| Continuous Evaluation | 10% |
-| Report & Code | 20% |
-| Presentation & Discussion | 20% |
-| **Total** | **65% of final grade** |
